@@ -1,0 +1,5 @@
+*.рус
+_pycache_
+mysite
+db.sqlite3
+.DS_Store
